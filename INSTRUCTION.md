@@ -1,6 +1,6 @@
 Docker Hub Repository
 The Docker image is published at:
-Docker Hub: https://hub.docker.com/r/YOUR_DOCKERHUB_USERNAME/todoapp
+Docker Hub: https://hub.docker.com/r/vsevolodbilyi
 Image: YOUR_DOCKERHUB_USERNAME/todoapp:1.0.0
 Prerequisites
 
